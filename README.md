@@ -1,9 +1,3 @@
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanakcildev&show_icons=true&theme=tokyonight)
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=hakanakcildev&color=red&style=flat">
-  <img>
-  </p>
-
   # Hi there! 
 
 I'm Hakan, a passionate web developer. I'm enthusiastic about the world of web development and constantly strive to learn new things.
